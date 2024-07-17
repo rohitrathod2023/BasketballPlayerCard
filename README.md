@@ -8,9 +8,6 @@ This project is a React application created using Vite. It displays profile card
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Running the Project](#running-the-project)
-- [Building for Production](#building-for-production)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Getting Started
 
@@ -21,15 +18,14 @@ These instructions will help you set up and run the project on your local machin
 Make sure you have the following software installed on your machine:
 
 - [Node.js](https://nodejs.org/) (version 14 or later)
-- npm (comes with Node.js) or [Yarn](https://yarnpkg.com/)
 
 ### Installation
 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/basketball-player-profile-cards.git
-   cd basketball-player-profile-cards
+   git clone https://github.com/rohitrathod2023/BasketballPlayerCard.git
+   cd BasketballPlayerCard
    ```
 
 2. **Install dependencies:**
@@ -38,12 +34,6 @@ Make sure you have the following software installed on your machine:
 
    ```sh
    npm install
-   ```
-
-   Using Yarn:
-
-   ```sh
-   yarn install
    ```
 
 ## Running the Project
